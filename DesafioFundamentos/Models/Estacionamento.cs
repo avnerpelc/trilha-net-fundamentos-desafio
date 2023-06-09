@@ -60,7 +60,7 @@ namespace DesafioFundamentos.Models
             {
                 Console.WriteLine("Os veículos estacionados são:");
                 
-                foreach (var veiculos in veiculos);
+                foreach (var veiculo in veiculos);
                 {
                     Console.WriteLine(veiculos);
                 }
